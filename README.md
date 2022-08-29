@@ -84,7 +84,7 @@ ModMoon:
 
 Move it to the ModMoon folder located in the 3ds folder and enable the game patch with Luma3DS by holding the select button while booting up the console and well enable the gane patch option.
 
-If are having problems with this one you should look up i recommend that you should look up [here](https://gbatemp.net/threads/modmoon-a-beautiful-simple-and-compact-mods-manager-for-the-nintendo-3ds.519080/)
+If are having problems with this one i recommend that you should look up [here](https://gbatemp.net/threads/modmoon-a-beautiful-simple-and-compact-mods-manager-for-the-nintendo-3ds.519080/)
 
 Luma3DS:
 

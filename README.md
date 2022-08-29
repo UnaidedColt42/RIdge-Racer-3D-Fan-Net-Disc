@@ -1,2 +1,63 @@
 # RIdge-Racer-3D-Fan-Net-Disc
 Mod that replaces the base music from the game to some custom tracks
+
+## So what's this all about?
+Basiclly replaces the Soundtrack from Ridge Racer 3D with some track & Remixes from previous games including some songs from other franchises
+and don't get me wrong i like Ridge racer 3D OST but i just did this simply because of fun. 
+
+(Also no i did not copy sleepylark's RR3D music mod.)
+
+
+**BGM List**:
+
+Starting Grid Song: Menu - GENSOU Skydrift(Touhou Fangame) 
+
+**1st Disc**
+
+1. Liquid Soul - R:Racing Evolution
+2. Move Me(Ryu☆Remix) - R4 - Ridge Racer Type 4 -THE 20TH ANNIV. SOUNDS-
+3. Transparency - Ridge Racer 7 
+4. Distant Memories - Xevious 30th Anniversary Tribute
+5. Lighting Luge - Rage Racer
+
+**Disc 2**
+1. Drive U 2 Dancing (AJURIKA Remix) - Ridge Racer 20th Anniversary Remix/Ridge Racer 2/Ridge Racer Revolution
+2. Euphoria(RR 20th Anniv. Mix) - Ridge Racer 20th Anniversary Remix/Rave Racer
+3. Grip(RR 20th Anniv. Mix) - Ridge Racer 20th Anniversary Remix/Ridge Racer 2/Ridge Racer Revolution
+4. Quiet Curves(J99 Remix) - Ridge Racer 20th Anniversary Remix/R4 Ridge Racer Type 4
+5. Motor Species Remix - Ridge Racers 1/2 PSP/R4 Ridge Racer Type 4
+
+**Disc 3**
+1. FOGBOUND - Ridge Racer V
+2. Disco Ball - Ridge Racers 1/2 PSP
+3. Night Stream - Ridge Racers 1/2 PSP
+4. Euphoria - Ridge Racer V 
+5. TsuiTsui - Ridge Racer V
+
+**Disc 4**
+1. Sueno Del Mar - Ridge Racer 6
+2. Highway Fusion - Ridge Racer 6
+3. Radiance - Ridge Racer 6
+4. Supercruiser - Ridge Racer 7
+5. Deep Drive - Rage Racer
+
+**Disc 5 (Ace Combat)**
+1. Fire Away - Ace Combat 2
+2. Fire Youngman - Ace Combat 2
+3. If The Sky is Burnin' Out! (2011) - Ace Combat 3D Cross Rumble/Air Combat 22
+4. Riding High - Ace Combat 5: The Unsung War
+5. Do or die - Ace Combat 5: The Unsung War
+
+**Disc 6(Mostly Touhou Arrangements)**
+1. Fardraut - Xevious 30th Anniversary Tribute
+2. Scarlet Devil Mansion - GENSOU Skydrift(Touhou Fangame)
+3. Embers of Blazing Hell - GENSOU Skydrift(Touhou Fangame)
+4. Misty Lake - GENSOU Skydrift(Touhou Fangame)
+5. Seirensen - GENSOU Skydrift(Touhou Fangame)
+
+**Disc SP(Pac-Man)**
+1. Eat The World - Ridge Racer 7
+2. パックマン(５年ぶり２度目) - Ridge Racer Respect Recreation
+3. Motor Pac City - Ridge Racer V
+4. Eat'em Up! - R4 Ridge Racer Type 4
+5. Pac Madness - Pac-Man Championship Edition 2

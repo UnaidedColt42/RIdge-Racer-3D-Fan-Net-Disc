@@ -1,6 +1,10 @@
 # RIdge-Racer-3D-Fan-Net-Disc
 Mod that replaces the base music from the game to some custom tracks
 
+
+![repository-open-graph-template](https://user-images.githubusercontent.com/70654658/187312547-8fc2cb8d-b32e-47d0-a4b8-71bf6c52570f.png)
+
+
 ## So what's this all about?
 Basiclly replaces the Soundtrack from Ridge Racer 3D with some track & Remixes from previous games including some songs from other franchises
 and don't get me wrong i like Ridge racer 3D OST but i just did this simply because of fun. :)

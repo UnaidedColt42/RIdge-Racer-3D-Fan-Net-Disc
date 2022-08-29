@@ -69,7 +69,7 @@ Starting Grid Song: Menu - GENSOU Skydrift(Touhou Fangame)
 
 ## Installation
 
-(You first need to rename the folder to the game region ID before installing)
+(You first need to rename the folder to the game region ID before installing this mod.)
 
 Citra:
 

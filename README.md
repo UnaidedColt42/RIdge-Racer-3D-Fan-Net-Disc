@@ -3,7 +3,7 @@ Mod that replaces the base music from the game to some custom tracks
 
 ## So what's this all about?
 Basiclly replaces the Soundtrack from Ridge Racer 3D with some track & Remixes from previous games including some songs from other franchises
-and don't get me wrong i like Ridge racer 3D OST but i just did this simply because of fun. 
+and don't get me wrong i like Ridge racer 3D OST but i just did this simply because of fun. :)
 
 (Also no i did not copy sleepylark's RR3D music mod.)
 
@@ -65,3 +65,28 @@ Starting Grid Song: Menu - GENSOU Skydrift(Touhou Fangame)
 **Issues**
 
 - All the songs don't have their names in game since there isn't a tool to edit or extract .xpk files for now
+
+
+**Installation**
+
+Citra:
+
+You only have to drop the "romfs" folder to citra's mods folder which is located in C:\Users\[Insert Username Here]\AppData\Roaming\Citra\load\mods
+
+
+ModMoon:
+
+Move it to the ModMoon folder located in the 3ds folder and enable the game patch with Luma3DS by holding the select button while booting up the console and well enable the gane patch option.
+
+If are having problems with this one you should look up i recommend that you should look up [here](https://gbatemp.net/threads/modmoon-a-beautiful-simple-and-compact-mods-manager-for-the-nintendo-3ds.519080/)
+
+Luma3DS:
+
+Move the 000400000003XX00 folder within the romfs folder to E:\luma\titles and after that boot up the 3ds and hold the select button and mark the game patch option.
+
+
+**Roms ID's**
+
+USA = 0004000000035800
+EUR = 0004000000033B00
+JPN = 0004000000032800

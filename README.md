@@ -82,7 +82,7 @@ If are having problems with this one you should look up i recommend that you sho
 
 Luma3DS:
 
-Move the 000400000003XX00 folder within the romfs folder to E:\luma\titles and after that boot up the 3ds and hold the select button and mark the game patch option.
+Move the Game's ID folder within the romfs folder in it to E:\luma\titles and after that boot up the 3ds and hold the select button and mark the game patch option.
 
 
 # Roms ID's

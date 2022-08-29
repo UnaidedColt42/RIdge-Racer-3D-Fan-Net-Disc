@@ -61,3 +61,7 @@ Starting Grid Song: Menu - GENSOU Skydrift(Touhou Fangame)
 3. Motor Pac City - Ridge Racer V
 4. Eat'em Up! - R4 Ridge Racer Type 4
 5. Pac Madness - Pac-Man Championship Edition 2
+
+**Issues**
+
+- All the songs don't have their names in game since there isn't a tool to edit or extract .xpk files for now

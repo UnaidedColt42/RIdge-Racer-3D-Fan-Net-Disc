@@ -67,7 +67,7 @@ Starting Grid Song: Menu - GENSOU Skydrift(Touhou Fangame)
 - All the songs don't have their names in game since there isn't a tool to edit or extract .xpk files for now
 
 
-**Installation**
+## Installation
 
 Citra:
 
@@ -85,7 +85,7 @@ Luma3DS:
 Move the 000400000003XX00 folder within the romfs folder to E:\luma\titles and after that boot up the 3ds and hold the select button and mark the game patch option.
 
 
-**Roms ID's**
+# Roms ID's
 
 USA = 0004000000035800
 EUR = 0004000000033B00

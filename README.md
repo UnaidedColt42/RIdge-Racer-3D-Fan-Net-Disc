@@ -69,6 +69,8 @@ Starting Grid Song: Menu - GENSOU Skydrift(Touhou Fangame)
 
 ## Installation
 
+(You first need to rename the folder to the game region ID before installing)
+
 Citra:
 
 You only have to drop the "romfs" folder to citra's mods folder which is located in C:\Users\[Insert Username Here]\AppData\Roaming\Citra\load\mods

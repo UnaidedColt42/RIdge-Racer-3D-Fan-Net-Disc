@@ -21,8 +21,8 @@ Starting Grid Song: Menu - GENSOU Skydrift(Touhou Fangame)
 1. Liquid Soul - R:Racing Evolution
 2. Move Me(Ryu☆Remix) - R4 - Ridge Racer Type 4 -THE 20TH ANNIV. SOUNDS-
 3. Transparency - Ridge Racer 7 
-4. Distant Memories - Xevious 30th Anniversary Tribute
-5. Lighting Luge - Rage Racer
+4. Lighting Luge - Rage Racer
+5. Distant Memories - Xevious 30th Anniversary Tribute
 
 **Disc 2**
 1. Drive U 2 Dancing (AJURIKA Remix) - Ridge Racer 20th Anniversary Remix/Ridge Racer 2/Ridge Racer Revolution

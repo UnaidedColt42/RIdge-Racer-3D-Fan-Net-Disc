@@ -6,7 +6,7 @@ Mod that replaces the base music from the game to some custom tracks
 
 
 ## So what's this all about?
-Basiclly replaces the Soundtrack from Ridge Racer 3D with some track & remixes from previous games including some songs from other franchises
+Basically replaces the Soundtrack from Ridge Racer 3D with some track & remixes from previous games including some songs from other franchises
 and don't get me wrong i like Ridge racer 3D OST but i just did this simply because of fun. :)
 
 (Also no i did not copy sleepylark's RR3D music mod.)
